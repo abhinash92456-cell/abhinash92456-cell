@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinash92456-cell" alt="abhinash92456-cell" /></a> </p>
 
-- 🌱 I’m currently learning **springboot**
+- 🌱 I’m currently learning **springboot***
 
 - 📫 How to reach me **samalabhinash351@gmail.com**
 
